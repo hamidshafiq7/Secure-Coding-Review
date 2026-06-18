@@ -1,5 +1,5 @@
 # Secure Coding Review
-### Internship Project | Python Flask | Security Audit
+### Python Flask | Security Audit
 
 ---
 
