@@ -1,4 +1,4 @@
-# 🔐 Task 3 — Secure Coding Review
+# Secure Coding Review
 ### Internship Project | Python Flask | Security Audit
 
 ---
