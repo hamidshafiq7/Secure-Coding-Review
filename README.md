@@ -226,4 +226,4 @@ Hashing is a one-way process — the original password cannot be recovered from 
 
 ---
 
-*Internship Task 3 — Secure Coding Review | Python Flask Application*
+*Secure Coding Review | Python Flask Application*
